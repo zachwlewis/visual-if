@@ -1,5 +1,9 @@
 VISUAL-IF
 
-Visual IF is a visual editor for creating interactive fiction games.
+Visual IF is a Flash-based visual editor for creating interactive fiction games.
 
 It allows the developer to quickly create rooms and items with descriptions and actions in a visual environment.
+
+The following libraries are required to compile the Visual IF source:
+
+- FlashPunk
